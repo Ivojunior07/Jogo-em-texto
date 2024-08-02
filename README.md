@@ -1,2 +1,6 @@
 # Jogo em texto
- Tentativa de game em texto usando Python
+ Game em texto usando Python
+
+ Repositorio Criado no dia 02/08/2024
+ Primeiras interações:
+    
