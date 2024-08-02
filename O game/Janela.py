@@ -1,4 +1,5 @@
-import tkinter as tk
+from tkinter import *
+janela
 #função de criar a janela
 def criar_janela():
     #criação de janela principal
