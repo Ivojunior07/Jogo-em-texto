@@ -14,23 +14,3 @@ def criar_janela():
 
 #chamar função para criar janela
 criar_janela
-
-
-
-
-
-
-
-
-Nome = input('Diga seu nome ? ')
-
-print(f'Então {Nome} acorda em sua casa como mais um dia!')
-
-def decisaocama (): 
-    input('Levantar da cama ? ').strip().lower()
-
-    if decisaocama == 'Sim':
-        print(f'{Nome} levanta de sua cama e percebe algo estranho')
-
-    elif decisaocama == 'Nao':
-        print(f'{Nome} decide continuar deitado e tirar mais um leve cochilo')
